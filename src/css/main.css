@@ -37,3 +37,22 @@
     justify-content: center;
     align-items: center;
 }
+
+.job h2 {
+    background: #1254922f;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px auto;
+    max-width: 600px;
+    cursor: pointer;
+    color: #125492;
+    transition: 0.3s;
+}
+
+.job h2:hover {
+    background: #12549259;
+}
+
+.job a {
+    text-decoration: none;
+}
