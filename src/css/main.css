@@ -30,5 +30,10 @@
     height: 100px;
     width: 100%;
     background: #252525;
-    color: #fff;
+    color: #ffffff79;
+    font-size: 12px;
+    letter-spacing: 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
